@@ -17,5 +17,5 @@ infra:      [Linux, Docker, Git, Windows]
 ## `> ls projects/`
 
 🔒 [**ratpackgrinch/SAM**](https://github.com/ratpackgrinch/SAM) — Systemsicherheit & Assetmanagement
-🔒 [**ratpackgrinch/script**] (https://github.com/ratpackgrinch/script) - Scripte - Powershell, Python, VB-Scripte
+🔒 [**ratpackgrinch/script**](https://github.com/ratpackgrinch/script) - Scripte - Powershell, Python, VB-Scripte
 ```
