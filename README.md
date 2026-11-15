@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./grinch.png" width="100%" alt="RatPackGrinch" />
+  <img src="./grinch.png" width="50%" alt="RatPackGrinch" />
 </div>
 
 # public
