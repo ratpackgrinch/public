@@ -1,6 +1,9 @@
+<div align="center">
+  <img src="./grinch.png" width="100%" alt="RatPackGrinch" />
+</div>
+
 # public
 common info
-
 
 ```yaml
 # ~/.config/public/stack.yml
